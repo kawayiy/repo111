@@ -7,9 +7,12 @@ public class MainClass {
         System.out.println("111111");
         System.out.println("111111");
         System.out.println("111111");
+        //hello test
     }
 
     public void test(){
         int i = 10;
+
+        System.out.println(999);
     }
 }
